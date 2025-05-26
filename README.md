@@ -63,3 +63,6 @@ Feedback and suggestions are welcome. Feel free to fork, contribute, or use for 
 This chart shows key security metrics side-by-side for Q1 and Q2 2025, highlighting trends in incidents, vulnerabilities, and training completion.
 
 ![Security Metrics Bar Chart](./dashboards/security-metrics-bar-chart.png)
+
+
+- 📘 [Metrics Methodology Definitions](./methodology/metrics-methodology.xlsx)
