@@ -53,3 +53,13 @@ All data shown in this project is mock data created for demonstration and skill 
 ## 🤝 Contributions & Feedback
 
 Feedback and suggestions are welcome. Feel free to fork, contribute, or use for inspiration in your own metrics program.
+
+
+
+---
+
+## 📊 Visual Comparison (Q1 vs Q2 2025) - RESULT
+
+This chart shows key security metrics side-by-side for Q1 and Q2 2025, highlighting trends in incidents, vulnerabilities, and training completion.
+
+![Security Metrics Bar Chart](./dashboards/security-metrics-bar-chart.png)
